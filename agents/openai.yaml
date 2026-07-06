@@ -1,4 +1,4 @@
-﻿interface:
+interface:
   display_name: "需求完成度审查"
   short_description: "根据需求文档核查游戏项目代码的实现完成度、潜在 Bug 和游戏内表现"
   brand_color: "#0EA5E9"
