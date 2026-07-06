@@ -1,5 +1,5 @@
 interface:
-  display_name: "需求完成度审查"
-  short_description: "根据需求文档核查游戏项目代码的实现完成度、潜在 Bug 和游戏内表现"
+  display_name: "Requirement Audit"
+  short_description: "Audit game project requirement completion, bug risks, and in-game behavior based on requirement docs"
   brand_color: "#0EA5E9"
-  default_prompt: "使用 $requirement-audit 对项目进行需求完成度审查：提供需求文档和项目路径，自动拆解需求、搜索代码证据、判定完成度、分析 Bug 风险并输出 QA 可用报告。"
+  default_prompt: "Use $requirement-audit 对项目进行需求完成度审查：提供需求文档和项目路径，自动拆解需求、搜索代码证据、判定完成度、分析 Bug 风险并输出 QA 可用报告。"

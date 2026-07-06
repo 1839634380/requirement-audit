@@ -1,4 +1,4 @@
-# Requirement Audit Skill
+# Requirement Audit
 
 用于根据需求文档审查游戏项目的需求完成度、潜在 Bug 风险和游戏内表现。
 
